@@ -1,0 +1,15 @@
+{
+  "id": "wod-v5-russian",
+  "title": "World Of Darkness V5 Russian",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "languages": [
+    {"lang": "ru",
+    "name": "Russian",
+    "path": "ru.json"}
+  ],
+  "download": "https://github.com/sergeyKazakovW/wod-v5-russian/archive/refs/heads/main.zip"
+}
