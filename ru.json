@@ -21,35 +21,11 @@
   
     "WOD5E": {
         "_COMMENT": "This localization file has missing translations, marked with an underscore before the string. If you have a translation, please submit a pull request!",
-
-        "Name": "Название",
-        "Confirm": "Подтвердить",
-        "Close": "Отмена",
-        "Save": "Сохранить",
-        "Submit": "Ввести",
-        "System": "Бросок",
-        "Edit": "Изменить",
-        "Delete": "Удалить",
-        "Level": "Уровень",
-        "Add": "Добавить",
-        "Cancel": "Отмена",
-        "Health": "Здоровье",
-        "Willpower": "Воля",
-        "Exp": "Опыт",
-        "None": "Нет",
-        "Value": "Значение",
-
-        "Mortal": "Смертный",
-        "GroupSheet": "Лист Котерии",
-
-        "OpenSheet": "Открыть лист",
-        "RemoveFromGroup": "Удалить из групы",
-        "NoGroupMembers": "Нету персонажей в группе",
-
-      "_HunterDice": "",
+      
+        _HunterDice": "",
       "DesperationDice": "Кости Отчаяния",
-        
-      "Despair": "Отчаянье",
+    
+        "Despair": "Отчаянье",
       "Creed": "Кредо",
       "CreedFields": "Поля Кредо",
       "Cell": "Ячейка",
@@ -81,6 +57,30 @@
       "RepelTheUnnatural": "Оттолкнуть Противоестественное",
       "ThwartTheUnnatural": "Помешать Противоестественному",
       "Artifact": "Артефакт"
+        
+        "Name": "Название",
+        "Confirm": "Подтвердить",
+        "Close": "Отмена",
+        "Save": "Сохранить",
+        "Submit": "Ввести",
+        "System": "Бросок",
+        "Edit": "Изменить",
+        "Delete": "Удалить",
+        "Level": "Уровень",
+        "Add": "Добавить",
+        "Cancel": "Отмена",
+        "Health": "Здоровье",
+        "Willpower": "Воля",
+        "Exp": "Опыт",
+        "None": "Нет",
+        "Value": "Значение",
+
+        "Mortal": "Смертный",
+        "GroupSheet": "Лист Котерии",
+
+        "OpenSheet": "Открыть лист",
+        "RemoveFromGroup": "Удалить из групы",
+        "NoGroupMembers": "Нету персонажей в группе",
 
         "RollList": {
             "Label": "Проверка",
